@@ -1,87 +1,16 @@
-&lt;h2 align="center">
-Selamat Datang di Dunia Unggul!
-&lt;img src="[suspicious link removed]" width="28">
-&lt;/h2>
+<h1 align="center">Hi, I'm Unggul Widya Saputra 👋</h1>
+<h3 align="center">A passionate frontend developer from Surakarta, Central Java, Indonesia</h3>
 
-&lt;p align="center">
-&lt;a href="[suspicious link removed]">&lt;img src="[suspicious link removed]">&lt;/a>
-&lt;/p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/uunggul29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uunggul29" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/unggulwidyasaputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="unggulwidyasaputra" height="30" width="40" /></a>
+<a href="https://kaggle.com/unggulwidyasaputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="unggulwidyasaputra" height="30" width="40" /></a>
+<a href="https://fb.com/unggul.widyasaputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="unggul.widyasaputra" height="30" width="40" /></a>
+<a href="https://instagram.com/uunggul29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uunggul29" height="30" width="40" /></a>
+</p>
 
-&lt;a href="[suspicious link removed]">
-&lt;img align="right" src="[suspicious link removed]" alt="Profile visitor" />
-&lt;/a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
- ---
-
-&lt;h3 align="center">
-&lt;samp>&amp;gt; Hai!, Saya
-&lt;b>&lt;a target="_blank" href="[suspicious link removed]">Unggul Widya Putra&lt;/a>&lt;/b>
-&lt;/samp>
-&lt;/h3>
-
-&lt;p align="center"> 
-&lt;samp>
-&lt;a href="https://www.google.com/search?q=Unggul+Widya+Putra">「 Google Me 」&lt;/a>
-&lt;br>
-「 Saya seorang mahasiswa dari &lt;b>Universitas Pignatelli Triputra, Indonesia&lt;/b> 」
-&lt;br>
-&lt;br>
-&lt;/samp>
-&lt;/p>
-
-&lt;p align="center">
-&lt;a href="mailto:emailmu@example.com" target="_blank"> &lt;img src="[suspicious link removed]" alt="Email Unggul" />
-&lt;/a>
-&lt;a href="[suspicious link removed]" target="_blank"> &lt;img src="[suspicious link removed]" alt="LinkedIn Unggul"/>
-&lt;/a>
-&lt;a href="[suspicious link removed]" target="_blank"> &lt;img src="[suspicious link removed]" />
-&lt;/a>
-&lt;a href="[suspicious link removed]" target="_blank"> &lt;img src="[suspicious link removed]" alt="Instagram Unggul" />
-&lt;/a> 
-&lt;a href="[suspicious link removed]" target="_blank"> &lt;img src="[suspicious link removed]" alt="Facebook Unggul"  />
-&lt;/a> 
-&lt;/p>
-&lt;br />
-
-Tentang Saya
-&lt;p>
-&lt;img align="right" width="350" src="[suspicious link removed]" alt="Coding gif" />  
-✌️ &amp;emsp; Mahasiswa Teknik Komputer di Universitas Pignatelli Triputra &lt;br/>&lt;br/>
-❤️ &amp;emsp; Senang belajar hal baru dan memecahkan masalah dengan kode&lt;br/>&lt;br/>
-🌱 &amp;emsp; Fokus dalam pengembangan web dan algoritma&lt;br/>&lt;br/>
-📧 &amp;emsp; Hubungi saya kapan saja: emailmu@example.com&lt;br/>&lt;br/> 💬 &amp;emsp; Tanyakan apa saja tentang saya [suspicious link removed] &lt;/p>
-
-&lt;br/>
-&lt;br/>
-&lt;br/>
-
-Teknologi yang Saya Gunakan
-&lt;br/>
-
-Proyek Pilihan
-   &lt;p align="left">
-&lt;a href="[suspicious link removed]" target="_blank">&lt;img alt="Semua Repositori" title="Semua Repositori" src="[suspicious link removed]"/>&lt;/a>
-
-&lt;/p>
-
-&lt;br/>
-&lt;hr/>
-&lt;br/>
-
-&lt;p align="center">
-&lt;a href="[suspicious link removed]">
-&lt;img src="[suspicious link removed]" alt="Streak GitHub Unggul Widya Putra"/>
-&lt;/a>
-&lt;/p>
-
-&lt;p align="center">
-&lt;a href="[suspicious link removed]">
-&lt;img src="[suspicious link removed]" alt="Kontribusi GitHub Unggul Widya Putra"/>
-&lt;/a>
-&lt;/p>
-
-&lt;a> 
-&lt;a href="[suspicious link removed]">&lt;img alt="Statistik GitHub Unggul Widya Putra" src="[suspicious link removed]" height="192px" width="49.5%"/>&lt;/a>
-&lt;a href="[suspicious link removed]">&lt;img alt="Bahasa Teratas Unggul Widya Putra" src="[suspicious link removed]" height="192px" width="49.5%"/>&lt;/a>
-&lt;br/>
-&lt;/a>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uunggul29&show_icons=true&locale=en&layout=compact" alt="uunggul29" /></p>
