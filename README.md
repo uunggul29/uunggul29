@@ -6,6 +6,12 @@
 </h3>
 
 <p align="center">
+        <samp>&gt;
+                <b><a>Indo</a></b>
+        </samp>
+</p>
+
+<p align="center">
  <a href="https://alsiam.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
