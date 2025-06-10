@@ -78,7 +78,4 @@
 <a href="https://instagram.com/uunggul29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uunggul29" height="30" width="40" /></a>
 <a href="https://behance.net/technologyhell" target="blank"><img align="center" src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" alt="Behance" height="30" width="auto" /></a>
 <a href="https://discord.gg/6ME9TDt" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" height="30" width="auto" /></a>
-<a href="https://twitch.tv/technologyhell" target="blank"><img align="center" src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" alt="Twitch" height="30" width="auto" /></a>
-<a href="https://x.com/technologyhell" target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" height="30" width="auto" /></a>
-<a href="https://youtube.com/@technologyhell" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" height="30" width="auto" /></a>
 </p>
