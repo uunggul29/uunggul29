@@ -1,6 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Unggul Widya Saputra! I'm a programmer from Surakarta, Central Java, Indonesia.
+# Hi there, I'm Unggul Widya Saputra! 
+<br>
+I'm a programmer from Surakarta, Central Java, Indonesia.
 
 ---
   
