@@ -221,8 +221,3 @@
     </a>
   </div>
 </div>
-
-<hr>
-
-<p>Credit: <a href="https://github.com/Elanza-48">Elanza-48</a></p>
-<p>Last Edited on: 09/09/2021</p> 
