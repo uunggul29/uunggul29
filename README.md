@@ -1,5 +1,8 @@
 <div align="center">
+# 👋 Hi there, I'm Unggul Widya Saputra! I'm a programmer from Surakarta, Central Java, Indonesia 🇮🇩.
 
+---
+  
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/unggul.widyasaputra) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/unggulwidyasaputra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/unggulwidyasaputra) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/uunggul29) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@uunggul29) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/uunggul29) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:unggulwidyasaputra@gmail.com) 
 
@@ -17,12 +20,12 @@
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=uunggul29&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=uunggul29&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
