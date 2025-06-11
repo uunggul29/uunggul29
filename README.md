@@ -1,94 +1,228 @@
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a>Unggul Widya Saputra 👋</a></b>
-        </samp>
-</h3>
-
-<p align="center">
-        <samp>&gt;
-                <b><a>Indo</a></b>
-        </samp>
+  <p align="center">
+  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png">
 </p>
-
+<h1 align="center">Hi, I'm Unggul Widya Saputra<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h3 font-size="20" align="center">A passionate backend developer and a student from Surakarta, Central Java, Indonesia.</h3>
+<ul>
+<li>
+<p>🌱 I’m currently learning <strong>To be Extroverted</strong> <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"></p>
+</li>
+<li>
+<p>👯 I’m looking to collaborate on <strong>Spring Framework</strong></p>
+</li>
+<li>
+<p>🤝 I’m looking for help with <strong>Backend Design</strong></p>
+</li>
+<li>
+<p>👨‍💻 All of my projects are available <a href="github.com/Elanza-48">@Elanza-48</a></p>
+</li>
+<li>
+<p>💬 Ask me about <strong>System Designs and Philosophy 😆</strong></p>
+</li>
+<li>
+<p>⚡ Fun fact <strong>Coding is a passion</strong></p>
+</li>
+</ul>
+<hr>
+<h2 align="center"><u><b>Knowledge Base</b></u></h2>
+<iframe src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="480" height="480" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe><p><a href="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N">via GIPHY</a></p>
 <p align="center">
- <a href="https://twitter.com/uunggul29" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=twitter&logoColor=white" alt="uunggul29"/>
- </a>
- <a href="https://linkedin.com/in/unggulwidyasaputra" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="uunggul29"/>
- </a>
- <a href="https://twitter.com/_uunggul29" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/_uunggul29" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="uunggul29" />
- </a> 
- <a href="https://facebook.com/uunggul29.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="uunggul29"  />
+  <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif">
+</p>
+<p align="center">
+  <img style="width:26rem; height:auto" src="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N">
+</p>
+<h3 align="center">Languages</h3>
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="c">
+  </a>
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="java"> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="javascript"> 
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="html5"> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="css3">
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="typescript">
+  </a>
+</p>
+<h3 align="center">Frontend</h3>
+<p align="center">
+      <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="bootstrap">
+  </a>
+  <a href="https://babeljs.io/" target="_blank">
+    <img src="https://img.shields.io/badge/babel-F9DC3E.svg?style=for-the-badge&amp;logo=babel&amp;logoColor=black" alt="babel"> 
+  </a>
+  <a href="https://bulma.io/" target="_blank">
+    <img src="https://img.shields.io/badge/bulma-00D1B2.svg?style=for-the-badge&amp;logo=bulma&amp;logoColor=white" alt="bulma">
+  </a>
+  <a href="https://www.gatsbyjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/gatsbyjs-663399.svg?style=for-the-badge&amp;logo=gatsby&amp;logoColor=white" alt="gatsby">
+  </a>
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&amp;logo=react&amp;logoColor=black" alt="react"> 
+  </a>
+  <a href="https://redux.js.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&amp;logo=redux&amp;logoColor=white" alt="redux"> 
+  </a> 
+  <a href="https://jquery.com/" target="_blank">
+    <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&amp;logo=jquery&amp;logoColor=white" alt="jquery"> 
+  </a>
+  <a href="https://webpack.js.org" target="_blank">
+    <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&amp;logo=webpack&amp;logoColor=black" alt="webpack">
+  </a>
+</p>
+<h3 align="center">Backend</h3>
+<p align="center">
+  <a href="https://nodejs.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="nodejs"> 
+  </a>
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="express">
+  </a><a href="https://hibernate.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&amp;logo=hibernate&amp;logoColor=white" alt="hibernate "> 
+  </a>
+    <a href="https://spring.io/" target="_blank"> 
+      <img src="https://img.shields.io/badge/spring%20IOC-6DB33F.svg?style=for-the-badge&amp;logo=spring&amp;logoColor=white" alt="spring"> 
+  </a>
+  <a href="https://spring.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="spring Boot"> 
+  </a>
+  <a href="https://graphql.org" target="_blank">
+    <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&amp;logo=graphql&amp;logoColor=white" alt="graphql">
+  </a>
+  <a href="https://kubernetes.io" target="_blank"> 
+    <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="kubernetes">
+  </a>
+  <a href="https://www.nginx.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="nginx"> 
   </a> 
 </p>
-<br />
-
----
-
-### 💻 Languages and Tools ⚡
-
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" height="40"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" height="40"/>
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" height="40"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" height="40"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="40"/>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="Adobe After Effects" height="40"/>
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" height="40"/>
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro" height="40"/>
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator" height="40"/>
-  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" height="40"/>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" height="40"/>
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" height="40"/>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="40"/>
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" height="40"/>
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%2white" alt="Scipy" height="40"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="40"/>
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" height="40"/>
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" height="40"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="40"/>
-  <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi" height="40"/>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+<h3 align="center">Database</h3>
+<p align="center">
+  <a href="https://www.postgresql.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="postgresql"> 
+  </a>
+  <a href="https://redis.io" target="_blank"> 
+    <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="redis">
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="sqlite"> 
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="mongodb"> 
+  </a> 
 </p>
-
----
-
-<!-- Snake Animation -->
-<div align="center">
-    
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+<h3 align="center">Cloud &amp; Hosting:</h3>
+<p align="center">
+  <a href="https://azure.microsoft.com/en-in/" target="_blank">
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" alt="azure"> 
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&amp;logo=firebase&amp;logoColor=black" alt="firebase">
+  </a>
+  <a href="https://netlify.com/" target="_blank">
+    <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&amp;logo=netlify&amp;logoColor=black" alt="firebase">
+  </a>
+  <a href="https://heroku.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&amp;logo=heroku&amp;logoColor=white" alt="heroku"> 
+  </a> 
+</p>
+<h3 align="center">Testing</h3>
+<p align="center"> 
+  <a href="https://www.selenium.dev" target="_blank"> 
+    <img src="https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&amp;logo=selenium&amp;logoColor=white" alt="selenium"> 
+  </a> 
+  <a href="https://junit.org/junit5/" target="_blank"> 
+    <img src="https://img.shields.io/badge/junit-25A162.svg?style=for-the-badge&amp;logo=junit5&amp;logoColor=white" alt="junit5"> 
+  </a> 
+</p>
+<h3 align="center">Version Control &amp; CI/CD</h3>
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="git">
+  </a>
+  <a href="https://github.com/ELanza-48" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="github">
+  </a>
+  <a href="https://gitlab.com/Elanza-48" target="_blank">
+    <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="git">
+  </a>
+    <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="docker">
+  </a>
+  <a href="https://www.jenkins.io" target="_blank"> 
+    <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white" alt="jenkins"> 
+  </a>
+</p>
+<h3 align="center">Preferred IDEs  &amp; Tools :</h3>
+<p align="center"> 
+  <a href="https://eclipse.org" target="_blank">
+    <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&amp;logo=eclipse&amp;logoColor=white" alt="eclipse IDE"> 
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="vsCode"> 
+  </a>
+  <a href="https://www.jetbrains.com/" target="_blank">
+    <img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&amp;logo=jetbrains&amp;logoColor=white" alt="jetbrains">
+  </a>
+  <a href="https://postman.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="postman">
+  </a>
+  <a href="https://www.virtualbox.org/" target="_blank">
+    <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&amp;logo=virtualbox&amp;logoColor=white" alt="virtualbox">
+  </a>
+  <a href="https://ubuntu.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt="ubuntu">
+  </a>
+</p>
+<hr>
+<h3 align="center">Connect with me</h3>
+<div style="margin-top:10px" align="center">
+  <div>
+    <a href="https://dev.to/example" target="_blank">
+      <img src="https://img.shields.io/badge/DEV.to-0A0A0A.svg?style=for-the-badge&amp;logo=devdotto&amp;logoColor=white" alt="example">
+    </a>
+    <a href="https://medium.com/@example" target="_blank">
+      <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&amp;logo=medium&amp;logoColor=white" alt="example">
+    </a>
+    <a href="https://codepen.io/@example" target="_blank">
+      <img src="https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&amp;logo=codepen&amp;logoColor=white" alt="example">
+    </a>
+  </div>
+  <div>
+    <a href="https://linkedin.com/in/example" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="example">
+    </a>
+    <a href="https://twitter.com/example" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="example">
+    </a>
+    <a href="https://dribbble.com/example" target="_blank">
+      <img src="https://img.shields.io/badge/Dribbble-EA4C89.svg?style=for-the-badge&amp;logo=dribbble&amp;logoColor=black" alt="example">
+    </a>
+  </div>
+  <div>
+    <a href="https://www.codechef.com/users/example" target="_blank">
+      <img src="https://img.shields.io/badge/Codechef-5B4638.svg?style=for-the-badge&amp;logo=codechef&amp;logoColor=white" alt="example">
+    </a>
+    <a href="https://www.hackerrank.com/example" target="_blank">
+      <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=black" alt="example">
+    </a>
+    <a href="https://www.leetcode.com/example" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" alt="example">
+    </a>
+  </div>
 </div>
 
----
+<hr>
 
-### 🌐 Connect with Me 🍬
-
-<p align="left">
-<a href="https://linkedin.com/in/unggulwidyasaputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="unggulwidyasaputra" height="30" width="40" /></a>
-<a href="https://kaggle.com/unggulwidyasaputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="unggulwidyasaputra" height="30" width="40" /></a>
-<a href="https://fb.com/unggul.widyasaputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="unggul.widyasaputra" height="30" width="40" /></a>
-<a href="https://instagram.com/uunggul29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uunggul29" height="30" width="40" /></a>
-<a href="https://behance.net/technologyhell" target="blank"><img align="center" src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" alt="Behance" height="30" width="auto" /></a>
-<a href="https://discord.gg/6ME9TDt" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" height="30" width="auto" /></a>
-</p>
+<p>Credit: <a href="https://github.com/Elanza-48">Elanza-48</a></p>
+<p>Last Edited on: 09/09/2021</p> 
